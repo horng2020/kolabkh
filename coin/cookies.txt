@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.cpabuild.com	TRUE	/	FALSE	1999999999	__cfduid	d108fb6e1f3c61aba4b444b7da53a914b1566733752
-
