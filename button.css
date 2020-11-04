@@ -1,0 +1,12 @@
+.btn-episode {
+    border-radius: 0.56rem;
+    color: #fffff!important;
+    background-color #4f99ff!important;
+    text-decoration: none;
+    border-color: #ccc;
+    font-size: 12px;
+    padding: 4px 6px;
+    border: 1px solid transparent;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+    margin: .375rem;
+}
